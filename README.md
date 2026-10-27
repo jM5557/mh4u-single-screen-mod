@@ -28,10 +28,10 @@ To update, delete these folders and copy them over to the `mods` folder
 - Kitchen/Food Menu: All kitchen/food menus are now displayed on the top-screen side-by-side
 
 - Arena Quests: 
-> For the Arena Bambina's quest list, press the `Select` button to display/hide your leaderboard/timing statistics. 
-> Arena Bambina's quest's main menu was moved from the bottom screen to fill the top screen
-> Arena quest weapon selection screen has the weapon icons/buttons displaying on the top screen (touch-responsive on touch screens)
-> Prompt to confirm your weapon selection now displays on the top screen
+  - For the Arena Bambina's quest list, press the `Select` button to display/hide your leaderboard/timing statistics. 
+  - Arena Bambina's quest's main menu was moved from the bottom screen to fill the top screen
+  - Arena quest weapon selection screen has the weapon icons/buttons displaying on the top screen (touch-responsive on touch screens)
+  - Prompt to confirm your weapon selection now displays on the top screen
 
 - Confirmation Buttons: Buttons for "OK", "Cancel" ... etc. are now displayed at the bottom-right corner of the top screen when certain menus are open.
 These can be "hidden" by reverting them to the bottom screen by pressing L+R. Press L+R again to have these display on the top-screen again.
