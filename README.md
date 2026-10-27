@@ -1,5 +1,7 @@
 # Monster Hunter 4 Ultimate - Single-Screen Mod
 
+**AI Disclaimer:** Mod generation done by Claude.ai alongside manual testing via iterative development
+
 # Compatibility
 
 Monster Hunter 4 Ultimate - USA v1.1 (or v1.3.0) [Title ID: 0004000000126300]
